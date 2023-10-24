@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer && Designer
 -------------------------
 
-* 🖥️  See my portfolio at [MyProtfolio]([http://code-with-amine.github.io/Portfolio/](https://amine-abaidi.netlify.app/))
+* 🖥️  See my portfolio at [MyProtfolio](https://amine-abaidi.netlify.app/)
 * ✉️  You can contact me at [amineabaidi2003@outlook.com](mailto:amineabaidi2003@outlook.com)
 * 🧠  I'm learning As much as possible
 * 🤝  I'm open to collaborating on anything
